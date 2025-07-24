@@ -1,0 +1,1 @@
+Lexical analysis completed successfully. Output written to tests/simple.lx

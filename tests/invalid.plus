@@ -1,0 +1,15 @@
+* Unclosed comment starting here
+
+number x := 42;
+
+"Unclosed string literal
+
+number y := @invalid;  
+
+number z := 100;
+write z+10;  /* Invalid + as standalone character */
+
+write "String with newline
+error";
+
+write "Valid string"; $invalid
